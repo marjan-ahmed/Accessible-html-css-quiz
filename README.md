@@ -14,5 +14,6 @@ In this project, you will be able to access the navbar links by keys (shortcut k
 
 # Result
 
-![alt text](image.png)
-![alt text](image-1.png)
+![ScreenShot 1](images/image.png)
+![ScreenShot 2](images/image-1.png)
+![ScreenShot 3](images/image-2.png)
